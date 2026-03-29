@@ -1,4 +1,4 @@
-# Faheem | AI Customer Agent 🤖
+# Faheem | AI Customer Agent
 
 > Intelligent, multi-channel AI conversational agent for customer support, intent recognition, and automated sales lead qualification — built for [Faheem](https://faheem.app/).
 
