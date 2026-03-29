@@ -68,4 +68,4 @@ The Node.js Express core is engineered to concurrently process massive webhook s
 
 ## License
 
-Private — all rights reserved. Source code architecture is proprietary to Faheem. This document serves purely as a high-level technical overview for portfolio showcase purposes.
+Private — all rights reserved. Source code architecture is proprietary to Transformix. This document serves purely as a high-level technical overview for portfolio showcase purposes.
